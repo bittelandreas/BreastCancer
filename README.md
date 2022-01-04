@@ -1,4 +1,4 @@
-# BreastCancer
+# Breast Cancer - Project 9
 
 This repository is used to publish our paper and code about the breast cancer dataset retrieved from this site: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
