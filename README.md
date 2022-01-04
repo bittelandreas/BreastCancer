@@ -6,4 +6,4 @@ The following documents can be found here:
 - Paper
 - Raw data used in the code
 - Code with GNB, KNN, SVM & Stacking Models
-- Code used to generate some graphics
+- Code used to generate some graphics including the graphics
